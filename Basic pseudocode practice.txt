@@ -1,0 +1,104 @@
+The following pseudocodes are due by tomorrow, Friday 27th Aug. '21
+
+1.  Make an algorithm using pseudocode that will display your name on screen.
+
+2.  Make an algorithm using pseudocode which will get the name of user and then display it on screen.
+
+3.  Make an algorithm using pseudocode which will get the name of user and greet him as Hello and then his user name.
+    For example, if the user enters Azhar, your code should display Hello, Azhar.
+
+4.  Make an algorithm using pseudocode which will get two names from user and greet both of them seperately.
+    For example, if the user enters Nawaz and Asif, your code should display Hello, Nawaz on one line and Hello, Asif on second line.
+
+5.  Make an algorithm using pseudocode that will display th sum of 4 and 5.
+
+6.  Make an algorithm using pseudocode which will get a number from user and display it on screen.
+
+7.  Make an algorithm using pseudocode which will get two numbers and display the product of those two numbers.
+    For example, if the user enters 5 and 6, your code should display 30.
+
+8.  Make an algorithm using pseudocode which will get a number and display "Greater" if the number entered is more than 50, and "Lesser" if the number is less than 50.
+
+9.  Make an algorithm using pseudocode which will calculate and display the area of circle, by getting the value of radius from user
+    Hint : Area of circle = πr*r
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The following pseudocodes are due by Tuesday next week, 31st Aug. '21
+
+
+1.  Make an algorithm using pseudocode which will implement a simple calculator, that will take two numeric values and an arithmetic operator (+,-,*,/) from user and
+    perform the choosen calculation. Implement with if and case statements.
+
+2. Make an algorithm using pseudocode, which will get the year of birth and current year from user and display the age in number of months and number of days.
+
+3. Write an algorithm using pseudocode that inputs student's marks for three subjects and shows the grade by checking where the average falls according to this formula:
+    A* = 90 - 100
+    A = 80 - 89
+    B = 70 - 79
+    C = 60 - 69
+    D = 50 - 59
+    E = 40 - 49
+    U below 40
+
+4.  Write an algorithm using pseudocode that inputs the grade and display the marks which are required to score that grade according to this formula:
+    90 - 100    = A*
+    80 - 89     = A
+    70 - 79     = B
+    60 - 69     = C  
+    50 - 59     = D
+    40 - 49     = E
+    below 40    = F
+
+5.  N students take K apples and distribute them among each other evenly. The remaining (the indivisible) part remains in the basket. How many apples will each
+    single student get? How many apples will remain in the basket?
+    The program reads the numbers N and K. It should print the two answers for the questions above.
+
+    Example input
+    6
+    50
+
+    Example output
+    8
+    2
+
+    For above example, 50 apples were distributed among 6 students, each got 8 apples and 2 remained in basket.
+
+6.  Given the integer N - the number of seconds that is passed since midnight - how many full hours and full minutes are passed since midnight?
+    The program should print two numbers: the number of hours (between 0 and 23) and the number of minutes (between 0 and 1339).
+
+    For example, if N = 3900, then 3900 seconds have passed since midnight - i.e. now it's 1:05am. So the program should print 1 and 65 - i.e. 1 full hour and 65 full minutes has passed since midnight. 
+
+    Example input
+    3900
+
+    Example output
+    1 65
+
+7.  Given two timestamps of the same day: a number of hours, minutes and seconds for both of the timestamps. The moment of the first timestamp happened before the
+    moment of the second one. Calculate how many seconds passed between them.
+
+    Example input #1
+    1
+    1
+    1
+    2
+    2
+    2
+
+    Example output #1
+    3661
+
+    Example input #2
+    1
+    2
+    30
+    1
+    3
+    20
+
+    Example output #2
+    50
+
+
+
